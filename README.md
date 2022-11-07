@@ -1,0 +1,2 @@
+# segu
+Practice Purpose
